@@ -6,4 +6,4 @@ Sistema que detecta a bateria do dispositivo do usuário com JavaScript. Você p
 
 Aqui temos a captura de tela do projeto :
 
-![screenshot](screenshot.jpg)
+![screenshot](https://github.com/user-attachments/assets/b9a10bc0-5634-494a-9f34-a6e146285b4a)
